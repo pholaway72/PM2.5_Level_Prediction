@@ -1,4 +1,4 @@
-# PM2.5_Level_Prediction
+# PM2.5 Level Prediction
 
 The purpose of this project was to predict PM2.5 particulate levels for cities in mainland China. This was done using two different time series models; a SARIMA model and an ARMA-GARCH model. Prediction for this project was done only for Beijing (due to time constraints), but the process could be extended to any other location. Each city in China has multiple recording sites for each city. In Beijing, there were four different recording sites.
 
